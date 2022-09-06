@@ -17,7 +17,7 @@ Aqui vai a descrição do projeto, com objetivos funcionalidades, etc
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.<br>
 
-_________________
+***
 
 ### Link para linguagem de Marckdown
 https://www.markdownguide.org/basic-syntax/
