@@ -3,7 +3,7 @@
 </h1>
 
 ## Descrição do Projeto
-Aqui vai a descrição do projeto
+Aqui vai a descrição do projeto, com objetivos funcionalidades, etc
 
 ### Alunos
 * ` Aluno 1 `
