@@ -15,4 +15,4 @@ Aqui vai a descrição do projeto, com objetivos funcionalidades, etc
 
 ## 🍜 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.<br>
